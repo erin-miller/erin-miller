@@ -1,5 +1,5 @@
 - 👋 hello, i'm erin!
-- 🌱 i’m currently a sophomore computer science major learning python, java, javascript, css, and html
+- 🌱 i’m currently a sophomore computer science major learning python and java
 - 📫 you can contact me at erinm1018@gmail.com or message me on discord at Cosmic#2222
 
 - here's some extra links that contain miscellaneous information about me: https://linktr.ee/cozziejam
