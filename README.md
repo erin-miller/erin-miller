@@ -1,5 +1,5 @@
 - 👋 hello, i'm erin!
-- 🌱 i’m currently a junior computer science major learning python and java
+- 🌱 i’m currently a senior computer science major learning python and java
 - 📫 you can contact me at erinm1018@gmail.com
 
 <!---
