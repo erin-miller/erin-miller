@@ -1,5 +1,5 @@
 ## ☀️ Hello, I'm Erin! 
-- 🌱 I'm currently a senior computer science major with experience in full-stack development, primarily back-end
+- 🌱 I'm currently a senior computer science major with experience in full-stack development
 - 📫 You can contact me at erinm1018@gmail.com
 
 ### Main Repositories
